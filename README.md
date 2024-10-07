@@ -1,4 +1,4 @@
-- Hi, I’m Elanor Caverzagie
+- Hello! I’m Elanor Caverzagie
 - I’m interested in learning to design functional websites
 - I’m currently learning graphic design, UX design, and web design
 - I’m looking to collaborate on all kinds of projects
